@@ -1,2 +1,2 @@
 #!/bin/bash
-stat --printf /tmp/iamafile
+file/tmp/iamafile
