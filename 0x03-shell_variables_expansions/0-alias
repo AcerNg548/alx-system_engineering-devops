@@ -1,2 +1,2 @@
 #!/bin/bash
-alias [-p] [Name="Value"]
+alias [-p] [name="value"]
