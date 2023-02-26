@@ -1,6 +1,16 @@
-## 0x18. Webstack monitoring
+# Webstack monitoring
 
-- Why is monitoring needed
-- What are the 2 main area of monitoring
-- What are access logs for a web server (such as Nginx)
-- What are error logs for a web server (such as Nginx)
+This project invovled setting up Sumo Logic accounts to monitor server traffic
+on my three HolbertonBnB servers.
+
+## Tasks :page_with_curl:
+
+* **0. Monitor your Nginx traffic**
+  * [0-monitor_your_nginx_traffic](./0-monitor_your_nginx_traffic): Text file containing
+  my Sumo Logic access key.
+    * First line: `Access ID`
+    * Second line: `Access Key`
+
+* **1. Monitor your server**
+  * For this task, I configured Sumo Logic to monitor my server's memory, CPU, network
+  and disk.
